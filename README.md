@@ -1,11 +1,13 @@
 # js-dev-env
 Starter ES6 development environment that handles bundling, linting, transpiling, testing, and much more.<br>
-<sub><i>Keywords: ES6, Webpack, Babel, ESLint, Mocha, Chai, JSDOM, ngrok </i></sub>
+
 
 Requirements:
-1. Install Node 4 or greater (5 or greater recommended for optimum performance).
-2. Run ‘npm install’ in the root folder of each project.
+1. Install Node 4 or greater (5 or greater recommended for optimum performance).<br>
+2. Run ‘npm install’ in the root folder of each project.<br>
 
+<sub><i>Keywords: ES6, Webpack, Babel, ESLint, Mocha, Chai, JSDOM, ngrok </i></sub>
+<br>
 ### `npm start`
 Runs the app in development mode.<br>
 Specifically it runs security-check, ESLint, Mocha tests, MockApi and starts express development server on port 3000.<br>
