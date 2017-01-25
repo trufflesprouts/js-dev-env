@@ -2,7 +2,7 @@
 Starter ES6 development environment that handles bundling, linting, transpiling, testing, and much more.<br>
 
 
-Requirements:
+Requirements:<br>
 1. Install Node 4 or greater (5 or greater recommended for optimum performance).<br>
 2. Run ‘npm install’ in the root folder of each project.<br>
 
